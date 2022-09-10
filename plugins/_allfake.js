@@ -100,7 +100,7 @@ handler.all = async function (m) {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat  ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "caption":"by : WH MODS DEV","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "caption":"by : RIKU STORE","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                   global.fliveLoc2 = {
@@ -108,13 +108,13 @@ handler.all = async function (m) {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "title": "WH MODS DEV","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "title": "RIKU STORE","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                    global.ftoko = {
        key: {
                    fromMe: false,
-                   participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "6282127487538@s.whatsapp.net" } : {})
+                   participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "6287873985625@s.whatsapp.net" } : {})
                },
                message: {
                    "productMessage": {
@@ -157,7 +157,7 @@ handler.all = async function (m) {
                "groupInviteMessage": {
                    "groupJid": "6282127487538-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan WH MODS DEV", 
+                   "groupName": "Kawan WH RIKU", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
