@@ -22,7 +22,7 @@ let info = `
 ╭━━━━「 *PREMIUM* 」
 ┊⫹⫺ *Normal:* _5k/30B (1 bulan)_
 ┊⫹⫺ *Pro:* _8k/50B (2 bulan)_
-┊⫹⫺ *Vip:* _10k (8 bulan)_                                               
+┊⫹⫺ *Vip:* _10k (5 bulan)_                                               
 ┊⫹⫺ *Permanent:* = _15k (Unlimited)_
 ╰═┅═━––––––๑
 
@@ -47,15 +47,15 @@ const sections = [
 	title: `${htjava} SEWA ✦-------`,
 	rows: [
 	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
-	{title: "🔖 PRO", rowId: '.order *Paket:* PRO • Sewa', description: 'PRICE: ' + sp + 'k (4 bulan)' },
-	{title: "🔖 VIP", rowId: '.order *Paket:* VIP • Sewa', description: 'PRICE: ' + sv + 'k (12 bulan)' },
+	{title: "🔖 PRO", rowId: '.order *Paket:* PRO • Sewa', description: 'PRICE: ' + sp + 'k (2 bulan)' },
+	{title: "🔖 VIP", rowId: '.order *Paket:* VIP • Sewa', description: 'PRICE: ' + sv + 'k (PERMANENT)' },
 	]
     }, {
     title: `${htjava} PREMIUM ✦-------`,
 	rows: [
 	    {title: "🌟 NORMAL", rowId: '.order *Paket:* NORMAL • Premium', description: 'PRICE: ' + pn + 'k (1 bulan)' },
-	{title: "🌟 PRO", rowId: '.order *Paket:* PRO • Premium', description: 'PRICE: ' + pp + 'k (4 bulan)' },
-	{title: "🌟 VIP", rowId: '.order *Paket:* VIP • Premium', description: 'PRICE: ' + pv + 'k (8 bulan)' },
+	{title: "🌟 PRO", rowId: '.order *Paket:* PRO • Premium', description: 'PRICE: ' + pp + 'k (2 bulan)' },
+	{title: "🌟 VIP", rowId: '.order *Paket:* VIP • Premium', description: 'PRICE: ' + pv + 'k (5 bulan)' },
 	{title: "🌟 PERMANENT", rowId: '.order *Paket:* PERMANENT • Premium', description: 'PRICE: ' + ppm + 'k (UNLIMITED)' },
 	]
     },
