@@ -32,7 +32,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/tokoriku_'
 global.sgh = 'https://github.com/Lolllipoppp/' //github
-global.sgc = 'https://chat.whatsapp.com/CDEaUgQ0y3Q1LFXkUS6AXL'//group whatsapp
+global.sgc = 'https://chat.whatsapp.com/FOG0fCI7lIb6PIrOPSSOSg'//group whatsapp
 global.sdc = 'https://discord.gg/NMtaGAzm' //discord
 global.snh = 'https://youtube.com/channel/UCFVI0xZsoHdd3JvYQXHsNbw' // my youtube channel
 
