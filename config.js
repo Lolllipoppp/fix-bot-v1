@@ -120,7 +120,7 @@ global.author = '                「 RIKU-STORE  あ」'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://ibb.co/tJvp0TB/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://ibb.co/HT6ZT2C/transformers.jpg'
+global.imagebot = 'https://ibb.co/tJvp0TB/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://ibb.co/tJvp0TB/transformers.jpg']
 global.fla = 'https://ibb.co/tJvp0TB/transformers.jpg'
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'stikel'
-global.stickauth = `By Riku`
+global.stickpack = 'By Riku'
+global.stickauth = `sewa bot? chat 087873985625`
 
 global.multiplier = 38 // The higher, The harder levelup
 
