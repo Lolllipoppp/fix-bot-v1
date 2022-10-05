@@ -119,11 +119,11 @@ global.author = '                「 RIKU-STORE  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://ibb.co/tJvp0TB' //Main Thumbnail
-global.imagebot = 'https://ibb.co/tJvp0TB'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.thumb = 'https://i.ibb.co/0G6y0Rq/20220915-224249.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/0G6y0Rq/20220915-224249.jpg'
+global.giflogo = 'https://i.ibb.co/0G6y0Rq/20220915-224249.jpg'
 global.thumbs = ['https://ibb.co/tJvp0TB']
-global.fla = 'https://ibb.co/tJvp0TB'
+global.fla = 'https://i.ibb.co/0G6y0Rq/20220915-224249.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
