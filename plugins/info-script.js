@@ -4,12 +4,12 @@ let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
 let str = `*http://linktr.ee/rikustore0*
 
-Pengen mentahan nya ?
+Pengen mentahan nya (bukan sc bot ini) ?
 Nih ada santai bro....
 https://github.com/ImYanXiao/Elaina-MultiDevice
 
 Pengen yang udah di recode oleh owner?
-Script bot ini dijual bila kalian mau bisa chat owner
+Script bot ini dijual bila kalian mau bisa chat owner harganya cuman 15k
 
 wa.me/6287873985625`
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
